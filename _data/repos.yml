@@ -1,0 +1,17 @@
+repos:
+
+- name: dot-files
+  url: https://github.com/foguinhoperuca/dot-files
+  description: Arquivos de configuração pessoais.
+
+- name: java-commons
+  url: https://github.com/foguinhoperuca/java-commons
+  description: Boilerplate para backend escrito em java.
+
+- name: ppgccs
+  url: https://github.com/foguinhoperuca/ppgccs
+  description: Repositório do meu projeto de mestrado - Programa de Pós Graduação em Ciências da Computação Sorocaba.
+
+- name: jeff-geo.campos.nom.br
+  url: https://github.com/foguinhoperuca/jeff-geo.campos.nom.br
+  description: Site dedidaco à mim e minha noiva.

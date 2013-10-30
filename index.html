@@ -1,4 +1,21 @@
 ---
+repos:
+
+- name: dot-files
+  url: https://github.com/foguinhoperuca/dot-files
+  description: Arquivos de configuração pessoais.
+
+- name: java-commons
+  url: https://github.com/foguinhoperuca/java-commons
+  description: Boilerplate para backend escrito em java.
+
+- name: ppgccs
+  url: https://github.com/foguinhoperuca/ppgccs
+  description: Repositório do meu projeto de mestrado - Programa de Pós Graduação em Ciências da Computação Sorocaba.
+
+- name: jeff-geo.campos.nom.br
+  url: https://github.com/foguinhoperuca/jeff-geo.campos.nom.br
+  description: Site dedidaco à mim e minha noiva.
 ---
 <!DOCTYPE html>
 <html>
@@ -18,7 +35,7 @@
     <header>
       <div class="container">
         <h1>Jefferson Campos</h1>
-        <h2>My configuration files.</h2>
+        <h2>My Personal Blog.</h2>
 
         <section id="downloads">
           <a href="https://github.com/foguinhoperuca/dot-files/zipball/master" class="btn">Download as .zip</a>
@@ -31,10 +48,33 @@
     <div class="container">
       <section id="main_content">
         <p>Another blog/dot-file project. But it is special: it's mine! ;)</p>
-				<br />
+				Posts:<br />
 				<ul class="posts">
 					{% for post in site.posts %}
 					<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+					{% endfor %}
+				</ul>
+				<hr />
+				members: {{ site.time }}<br />
+				<ul>
+					{% for member in site.data.members %}
+					<li>
+						<a href="https://github.com/{{ member.github }}">
+							{{ member.name }}
+						</a>
+					</li>
+					{% endfor %}
+				</ul>
+
+				<hr />
+				repos:<br />
+				<ul>
+					{% for repo in page.repos %}
+					<li>
+						<a href="http://{{ repo.url }}">
+							{{ repo.name }}
+						</a>
+					</li>
 					{% endfor %}
 				</ul>
       </section>
