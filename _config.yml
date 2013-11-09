@@ -1,0 +1,50 @@
+repos:
+- name: dot-files
+  url: https://github.com/foguinhoperuca/dot-files
+  description: Arquivos de configuração pessoais.
+- name: java-commons
+  url: https://github.com/foguinhoperuca/java-commons
+  description: Boilerplate para backend escrito em java.
+- name: ppgccs
+  url: https://github.com/foguinhoperuca/ppgccs
+  description: Repositório do meu projeto de mestrado - Programa de Pós Graduação em Ciências da Computação Sorocaba.
+- name: jeff-geo.campos.nom.br
+  url: https://github.com/foguinhoperuca/jeff-geo.campos.nom.br
+  description: Site dedidaco à mim e minha noiva.
+
+- name: foguinhoperuca.github.io
+  url: https://github.com/foguinhoperuca/foguinhoperuca.github.io
+  description: 
+- name: dot-files
+  url: https://github.com/foguinhoperuca/dot-files
+  description: 
+- name: java-commons
+  url: https://github.com/foguinhoperuca/java-commons
+  description: 
+- name: ppgccs
+  url: https://github.com/foguinhoperuca/ppgccs
+  description: 
+- name: jeff-geo.campos.nom.br
+  url: https://github.com/foguinhoperuca/jeff-geo.campos.nom.br
+  description: 
+- name: math_major_ufscar
+  url: https://github.com/foguinhoperuca/math_major_ufscar
+  description: 
+- name: agile-java
+  url: https://github.com/foguinhoperuca/agile-java
+  description: 
+- name: caelum-rr71
+  url: https://github.com/foguinhoperuca/caelum-rr71
+  description: 
+- name: YAWECAPP
+  url: https://github.com/foguinhoperuca/YAWECAPP
+  description: 
+- name: alicerce
+  url: https://github.com/foguinhoperuca/alicerce
+  description: 
+- name: jquery-serialize-object
+  url: https://github.com/foguinhoperuca/jquery-serialize-object
+  description: 
+- name: snipmate.vim
+  url: https://github.com/foguinhoperuca/snipmate.vim
+  description: 

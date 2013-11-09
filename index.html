@@ -1,21 +1,4 @@
 ---
-repos:
-
-- name: dot-files
-  url: https://github.com/foguinhoperuca/dot-files
-  description: Arquivos de configuração pessoais.
-
-- name: java-commons
-  url: https://github.com/foguinhoperuca/java-commons
-  description: Boilerplate para backend escrito em java.
-
-- name: ppgccs
-  url: https://github.com/foguinhoperuca/ppgccs
-  description: Repositório do meu projeto de mestrado - Programa de Pós Graduação em Ciências da Computação Sorocaba.
-
-- name: jeff-geo.campos.nom.br
-  url: https://github.com/foguinhoperuca/jeff-geo.campos.nom.br
-  description: Site dedidaco à mim e minha noiva.
 ---
 <!DOCTYPE html>
 <html>
@@ -25,6 +8,7 @@ repos:
 
     <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen" />
     <link rel="stylesheet" type="text/css" href="stylesheets/pygment_trac.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="stylesheets/custom.css" media="screen" />
     <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print" />
 
     <title>Jefferson Campos by foguinhoperuca</title>
@@ -38,9 +22,13 @@ repos:
         <h2>My Personal Blog.</h2>
 
         <section id="downloads">
-          <a href="https://github.com/foguinhoperuca/dot-files/zipball/master" class="btn">Download as .zip</a>
-          <a href="https://github.com/foguinhoperuca/dot-files/tarball/master" class="btn">Download as .tar.gz</a>
-          <a href="https://github.com/foguinhoperuca/dot-files" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
+          <!-- <a href="https://github.com/foguinhoperuca/dot-files/zipball/master" class="btn">Download as .zip</a> -->
+          <!-- <a href="https://github.com/foguinhoperuca/dot-files/tarball/master" class="btn">Download as .tar.gz</a> -->
+          <!-- <a href="https://github.com/foguinhoperuca/dot-files" class="btn btn-github"><span class="icon"></span>View on GitHub</a> -->
+
+					{% for repos in site.repos %}
+          <a href="{{repos.url}}" class="btn">{{repos.name}}</a>
+					{% endfor %}
         </section>
       </div>
     </header>
@@ -52,29 +40,6 @@ repos:
 				<ul class="posts">
 					{% for post in site.posts %}
 					<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-					{% endfor %}
-				</ul>
-				<hr />
-				members: {{ site.time }}<br />
-				<ul>
-					{% for member in site.data.members %}
-					<li>
-						<a href="https://github.com/{{ member.github }}">
-							{{ member.name }}
-						</a>
-					</li>
-					{% endfor %}
-				</ul>
-
-				<hr />
-				repos:<br />
-				<ul>
-					{% for repo in page.repos %}
-					<li>
-						<a href="http://{{ repo.url }}">
-							{{ repo.name }}
-						</a>
-					</li>
 					{% endfor %}
 				</ul>
       </section>
