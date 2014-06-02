@@ -26,9 +26,9 @@
           <!-- <a href="https://github.com/foguinhoperuca/dot-files/tarball/master" class="btn">Download as .tar.gz</a> -->
           <!-- <a href="https://github.com/foguinhoperuca/dot-files" class="btn btn-github"><span class="icon"></span>View on GitHub</a> -->
 
-					{% for repos in site.repos %}
+		  {% for repos in site.repos %}
           <a href="{{repos.url}}" class="btn">{{repos.name}}</a>
-					{% endfor %}
+		  {% endfor %}
         </section>
       </div>
     </header>
@@ -36,12 +36,12 @@
     <div class="container">
       <section id="main_content">
         <p>Another blog/dot-file project. But it is special: it's mine! ;)</p>
-				Posts:<br />
-				<ul class="posts">
-					{% for post in site.posts %}
-					<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-					{% endfor %}
-				</ul>
+		Posts:<br />
+		<ul class="posts">
+		  {% for post in site.posts %}
+		  <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+		  {% endfor %}
+		</ul>
       </section>
     </div>    
   </body>
