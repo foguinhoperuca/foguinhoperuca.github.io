@@ -1,5 +1,7 @@
-# Contribuindo Por 100 Dias no Github.
-
+---
+layout: post
+title: Contribuindo Por 100 Dias no Github
+---
 Há 100 dias atrás comecei a contribuir com, no mínimo, um commit por dia em algum projeto no github. Vai desde uma simples alteração de tela em um projeto, passando pela implementação de alguma nova funcionalidade ou mesmo estudando uma nova biblioteca ou um novo conceito para aplicar. O que importa é que eu não fique parado, sem escrever nenhum código novo e principalmente me forçar a tirar alguns projetos do papel.
 
 Confesso, que estou contente com o resultado. Eu acho que, olhar para o gráfico de contribuições todos os dias e ver ele todo verdinho me deixa mais animado para continuar. Acaba sendo uma recompensa também. Isso me leva a pensar em expandir isso para "gameficar" (pra usar o termo da moda) essas contribuições, que por sua vez leva a querer gameficar tudo. Nessa onda acabei encontrado o [Habit RPG](https://habitrpg.com/static/front). Pretendo dar uma explorada nele melhor e que sabe implementar uma versão dele open source, só pela diversão. Ou mesmo algo mais simples para expandir os gráficos de contribuições do github. De quebra, conhece um pouco melhor a API deles.
