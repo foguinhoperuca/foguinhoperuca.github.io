@@ -1,4 +1,7 @@
-# My Personal Repository.
+---
+layout: post
+title: # My Personal Repository.
+---
 
 Dropbox act as file storage in the cloud. Here is all my files that I need share between multiple devices and it isn't private (if it is private then it shouldn't be in a third-party cloud server). The Dropbox account is the main one between others cloud vendor.
 The files can be grouped as:
