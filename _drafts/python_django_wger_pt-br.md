@@ -35,3 +35,6 @@ Lógico, vale considerar que cada linguagem/framework possui uma filosofia próp
 
 ### Common Workflow.
 
+# Bibliografia.
+
+[Tango with Django](http://www.tangowithdjango.com/ "Main Source")
