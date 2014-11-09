@@ -1,9 +1,36 @@
 * Posts
 ** 33 Estratégias de Guerra
-*** Sobre o Autor
-**** Pesquisar sobre Livro "A Arte da Sedução"
-**** Pesquisar sobre Livro "48 Leis do Poder"
-**** Pesquisar sobre Graduado em Estudos Clássicos na Universidade de Wisconsin
-**** Pesquisar sobre Revista Esquirre
-*** Referências
-**** Citar e catalogar as referências (colocar alguns links se possível)
+*** DONE Visão Geral
+*** DONE Sobre o Autor
+**** DONE Pesquisar sobre Livro "A Arte da Sedução"
+**** DONE Pesquisar sobre Livro "48 Leis do Poder"
+**** DONE Pesquisar sobre Graduado em Estudos Clássicos na Universidade de Wisconsin
+**** DONE Pesquisar sobre Revista Esquirre
+*** TODO Referências
+**** TODO Citar e catalogar as referências (colocar alguns links se possível)
+*** TODO Conteúdo
+**** TODO Parte I
+***** DONE Resumo da parte I
+***** TODO Capítulo 1
+***** TODO Capítulo 2
+***** TODO Capítulo 3
+***** TODO Capítulo 4
+**** TODO Parte II
+***** DONE Resumo da parte II
+***** TODO Capítulo 5
+***** TODO Capítulo 6
+***** TODO Capítulo 7
+**** TODO Parte III
+***** TODO Resumo da parte III
+**** TODO Parte IV
+***** TODO Resumo da parte IV
+**** TODO Parte V
+***** TODO Resumo da parte V
+*** TODO Conclusão Geral
+** Personal Repository
+** Python Django wger pt_br
+** radios pt_br
+** web development client side
+** wger (somente o produto)
+* Design
+** Rever todos os post e aplicar o design - repenser se é o ideal para leitura
