@@ -1,19 +1,19 @@
 ---
 layout: post
-title:  "Resenha do Livro 33 Estratégias de Guerra"
+title:  "Resenha do Livro 33 Estratégias de Guerra - Robert Greene"
 date:   2014-11-03 21:29:00
-categories: estrategia
+categories: estrategia resenha
 ---
 
 O livro tem a premissa que todos nós estamos sempre em algum conflito ou disputa ininterruptamente. Partindo disso, é necessário estar sempre a frente do seu adversário, utilizando-se da estratégia para obter as suas vitórias.
 
-# Sobre o autor.
+# Sobre o Autor.
 
-Robert Greene é autor dos livros "A Arte da Sedução" e "48 Leis do Poder". Nascido em Los Angeles, California, EUA. Graduado em Estudos Clássicos na Universidade de Wisconsin. Trabalhou em Nova York como editor e colaborador de várias revistas, entre elas Esquirre.
+Robert Greene é autor dos livros ["A Arte da Sedução"](http://www.rocco.com.br/index.php/livro?cod=436 "Página do livro no site da editora") e ["48 Leis do Poder"](http://www.rocco.com.br/index.php/livro?cod=173 "Página do livro no site da editora"). Nascido em Los Angeles, California, EUA. Graduado em [Estudos Clássicos](http://classics.lss.wisc.edu/ "Departamento de Estudos Clássicos") na [Universidade de Wisconsin](http://www.wisc.edu/ "Website Universidade de Wisconsin"). Trabalhou em Nova York como editor e colaborador de várias revistas, entre elas [Esquirre](http://www.esquire.com/ "Website Revista Esquire"). É dramaturgo e trabalhou como roteirista em Hollywood.
 
 # Referências.
 
-Citar e catalogar as referências (colocar alguns links se possível)
+Citar e catalogar as referências (colocar alguns links se possível). Ex.: Clausewitz, Sun Tzu, Maquiavel, etc.
 
 # Conteúdo.
 
