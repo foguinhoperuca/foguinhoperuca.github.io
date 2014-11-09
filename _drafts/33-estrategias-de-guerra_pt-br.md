@@ -1,4 +1,9 @@
-# Resenha do Livro 33 Estratégias de Guerra - Robert Greene.
+---
+layout: post
+title:  "Resenha do Livro 33 Estratégias de Guerra"
+date:   2014-11-03 21:29:00
+categories: estrategia
+---
 
 O livro tem a premissa que todos nós estamos sempre em algum conflito ou disputa ininterruptamente. Partindo disso, é necessário estar sempre a frente do seu adversário, utilizando-se da estratégia para obter as suas vitórias.
 
@@ -24,7 +29,7 @@ O livro é dividido em 5 partes, consistindo em:
 
 // Parte II: e se você não é o lider? Obviamente as estrategias continuam tendo o seu valor alterado, mas ainda fica a questão: qual o seu posicionamento ideal no grupo? Você deve estar no comando? O quão interessante é perseguir o topo da pirâmide (pois isso tem custo - no free lunch)
 
-# Conclusão Geral
+# Conclusão Geral.
 
 * Por quê o são escolhidas 33 estratégias especificas?
 * Qual o "espaço" de estratégias possíveis?
