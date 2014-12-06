@@ -29,6 +29,16 @@ O livro é dividido em 5 partes, consistindo em:
 
 // Parte II: e se você não é o lider? Obviamente as estrategias continuam tendo o seu valor alterado, mas ainda fica a questão: qual o seu posicionamento ideal no grupo? Você deve estar no comando? O quão interessante é perseguir o topo da pirâmide (pois isso tem custo - no free lunch)
 
+## PARTE I - GUERRA AUTODIRIGIDA
+
+### DECLARE GUERRA AOS SEUS INIMIGOS: A ESTRATÉGIA DA POLARIDADE
+
+### NÃO COMBATA A GUERRA QUE JÁ PASSOU: A ESTRATÉGIA DA GUERRILHA MENTAL
+
+### EM MEIO AO TURBILHÃO DE ACONTECIMENTOS, NÃO PERCA A PRESENÇA DE ESPÍRITO: A ESTRATÉGIA DO CONTRAPESO
+
+### CRIE UMA SENSAÇÃO DE URGÊNCIA E DESESPERO: A ESTRATÉGIA DA ZONA DA MORTE
+
 # Conclusão Geral.
 
 * Por quê o são escolhidas 33 estratégias especificas?
