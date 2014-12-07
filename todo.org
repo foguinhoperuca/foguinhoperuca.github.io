@@ -1,6 +1,8 @@
 * Posts
 ** 33 Estratégias de Guerra
 *** DONE Visão Geral
+**** DONE Resumo de cada parte
+**** DONE descrição da estrutura base para todos os capítulos
 *** DONE Sobre o Autor
 **** DONE Pesquisar sobre Livro "A Arte da Sedução"
 **** DONE Pesquisar sobre Livro "48 Leis do Poder"
@@ -34,3 +36,4 @@
 ** wger (somente o produto)
 * Design
 ** Rever todos os post e aplicar o design - repenser se é o ideal para leitura
+** http://pooleapp.com/
