@@ -35,6 +35,16 @@ A estrutura de cada capítulo é composta basicamente em mostrar algumas histór
 
 ### DECLARE GUERRA AOS SEUS INIMIGOS: A ESTRATÉGIA DA POLARIDADE
 
+#### Histórias
+
+#### Histórias Margem
+
+#### Chaves Para Guerra
+
+Esta estratégia foca, primeiramente, na ampliação do conceito de inimigo: o inimigo não é somente aquele que se opõe abertamente à você mas também aquele que age indiretamente contra você. É o caso daquela pessoa que se coloca como sua amiga, que propõe alianças, mas na hora H te deixa na mão. A indiferença, a neglicência pode ser mais eficiente do que a hostilidade aberta, justamente pelo fato de ela ser uma forma de prejudicá-lo de forma indireta.
+
+#### Inverso
+
 ### NÃO COMBATA A GUERRA QUE JÁ PASSOU: A ESTRATÉGIA DA GUERRILHA MENTAL
 
 ### EM MEIO AO TURBILHÃO DE ACONTECIMENTOS, NÃO PERCA A PRESENÇA DE ESPÍRITO: A ESTRATÉGIA DO CONTRAPESO
