@@ -56,3 +56,16 @@ Esta estratégia foca, primeiramente, na ampliação do conceito de inimigo: o i
 * Por quê o são escolhidas 33 estratégias especificas?
 * Qual o "espaço" de estratégias possíveis?
 * Quem são os autores seminais do assunto?
+
+<!-- Estrutura básica para resenha de cada capítulo -->
+<!-- ## PARTE X - <NOME_PARTE> -->
+
+<!-- ### <NOME_CAPÍTULO> -->
+
+<!-- #### Histórias -->
+
+<!-- #### Histórias Margem -->
+
+<!-- #### Chaves Para Guerra -->
+
+<!-- #### Inverso -->
