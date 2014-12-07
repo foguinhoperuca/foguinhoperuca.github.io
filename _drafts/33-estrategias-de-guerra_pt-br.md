@@ -25,6 +25,8 @@ O livro é dividido em 5 partes, consistindo em:
 * **Parte IV - Guerra Ofensiva**: (ainda não cheguei aqui)
 * **Parte V - Guerra (Suja) Não Convencional**: (ainda não cheguei aqui)
 
+A estrutura de cada capítulo é composta basicamente em mostrar algumas histórias e depois o autor realiza uma interpretação, de acordo com o capítulo. Depois, o autor apresenta alguns conceitos e discute-os dentro da seção "CHAVES PARA GUERRA". Para finalizar o capítulo, o autor apresenta e discute rapidamente um cenário em que os conceitos demonstrados podem "falhar" ou que seria uma aplicação errônea do mesmo. Esta seção é chamada de inverso. Finalmente, durante todo o capítulo, as margens possuem algum comentário ou história complementar, de acordo com o capítulo.
+
 // Mas qual a razão para o agrupamento em 5 partes? Apenas pela didática?
 
 // Parte II: e se você não é o lider? Obviamente as estrategias continuam tendo o seu valor alterado, mas ainda fica a questão: qual o seu posicionamento ideal no grupo? Você deve estar no comando? O quão interessante é perseguir o topo da pirâmide (pois isso tem custo - no free lunch)
