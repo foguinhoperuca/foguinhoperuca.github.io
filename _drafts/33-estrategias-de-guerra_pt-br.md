@@ -45,6 +45,8 @@ Esta estratégia foca, primeiramente, na ampliação do conceito de inimigo: o i
 
 #### Inverso
 
+#### Comentários
+
 ### NÃO COMBATA A GUERRA QUE JÁ PASSOU: A ESTRATÉGIA DA GUERRILHA MENTAL
 
 ### EM MEIO AO TURBILHÃO DE ACONTECIMENTOS, NÃO PERCA A PRESENÇA DE ESPÍRITO: A ESTRATÉGIA DO CONTRAPESO
@@ -69,3 +71,5 @@ Esta estratégia foca, primeiramente, na ampliação do conceito de inimigo: o i
 <!-- #### Chaves Para Guerra -->
 
 <!-- #### Inverso -->
+
+<!-- #### Comentários -->
