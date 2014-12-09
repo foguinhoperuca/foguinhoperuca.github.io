@@ -37,6 +37,10 @@ A estrutura de cada capítulo é composta basicamente em mostrar algumas histór
 
 #### Histórias
 
+* **Xenofontes e o exército grego contra os Persas**: Xenofontes uniu-se ao exército mercenário grego e participou da campanha desastrosa de Ciro contra seu irmão Artaxerxes. Após a derrota, os mercenários gregos viram-se obrigados a retornar ao seu país porém ficaram em uma situação terrível, com o exército persa ameaçando-os. Entretanto, Xenofontes, liderando os mercenários gregos, os uniu contra os anteriormente aliados persas, polarizando a situação. Graças à essa polarização, foi possível que o exército mercenário grego lutasse unido para voltar para casa;
+
+* **Trajetória de Margaret Thatcher**:;
+
 #### Histórias Margem
 
 #### Chaves Para Guerra
