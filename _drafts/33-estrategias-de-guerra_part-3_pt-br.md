@@ -1,6 +1,13 @@
 # Resenha do Livro 33 Estratégias de Guerra - Robert Greene - Parte 3.
 
-Visão geral.
+A parte 3 foca na chamada "Guerra Defensiva".
 
 # Capítulos
 
+## ESCOLHA AS SUAS BATALHAS COM CUIDADO: A ESTRATÉGIA DA ECONOMIA PERFEITA.
+
+## VIRE A MESA: A ESTRATÉGIA DO CONTRA-ATAQUE
+
+## CRIE UMA PRESENÇA AMEAÇADORA: ESTRATÉGIA DA DISSUAÇÃO
+
+## TROQUE ESPAÇO POR TEMPO: A ESTRATÉGIA DO NÃO COMPROMISSO
