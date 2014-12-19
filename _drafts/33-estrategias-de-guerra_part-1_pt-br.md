@@ -39,7 +39,7 @@ A estrutura de cada capítulo é composta basicamente em mostrar algumas histór
 
 * **Xenofontes e o exército grego contra os Persas**: Xenofontes uniu-se ao exército mercenário grego e participou da campanha desastrosa de Ciro contra seu irmão Artaxerxes. Após a derrota, os mercenários gregos viram-se obrigados a retornar ao seu país porém ficaram em uma situação terrível, com o exército persa ameaçando-os. Entretanto, Xenofontes, liderando os mercenários gregos, os uniu contra os anteriormente aliados persas, polarizando a situação. Graças à essa polarização, foi possível que o exército mercenário grego lutasse unido para voltar para casa;
 
-* **Trajetória de Margaret Thatcher**:;
+* **Trajetória de Margaret Thatcher**: Na decáda de 1970 o parlamento inglês estava acomodado, com uma alternância de poder previsível entre os partidos conservador e trabalhista. Thatcher, aproveitando o clima de mudança ensejado pelo partido conservador a fim de conseguir uma vantagem, conseguiu ganhar a indicação do seu partido e, poteriormente, a eleição. O diferencial de Thatcher era o enfrentamento ao inimigos ao invés da atitude "cortês e polida" predominante na época. Durante a sua campanha para primeiro-ministro ela conseguiu criar um clima de divisão e polarização, atraíndo o candidato dop partido trabalhista para uma armadilha, forçando-o a posicionar-se de forma antagônica à ela. Posteriormente, com a sua vitória, ela continuou a estratégia colocando todos os seus inimigos (inclusive dentro do próprio partido) de forma antagônica de si. Ela também soube aproveitar bem o episódio da guerra das Malvinas (Falklands), usando para conseguir mudar a visão do eleitorado sobre si;
 
 #### Histórias Margem
 
