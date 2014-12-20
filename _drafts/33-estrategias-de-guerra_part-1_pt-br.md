@@ -49,6 +49,8 @@ Esta estratégia foca, primeiramente, na ampliação do conceito de inimigo: o i
 
 #### Inverso
 
+O problema com essa estratégia é justamente o excesso de polarização: com a perda do controle, a paranóia toma o lugar da prudência. Portanto, manter os inimigos sob vigilância é prudente mas sem descuidar com o excesso.
+
 #### Comentários
 
 ### NÃO COMBATA A GUERRA QUE JÁ PASSOU: A ESTRATÉGIA DA GUERRILHA MENTAL
