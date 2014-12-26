@@ -55,6 +55,9 @@ O problema com essa estratégia é justamente o excesso de polarização: com a 
 
 ### NÃO COMBATA A GUERRA QUE JÁ PASSOU: A ESTRATÉGIA DA GUERRILHA MENTAL
 
+#### Histórias
+* Guerra Franco-Prussia protagonizada por Napoleão e Friedrich Ludwig. Durante essa disputa ficou evidente o jeito fluído de fazer guerra dos franceses versus o jeito mecânico e rígido do estilo prussiano. Durante essa guerra ficou evidente a superioridade da escola frnacesa na época.
+
 ### EM MEIO AO TURBILHÃO DE ACONTECIMENTOS, NÃO PERCA A PRESENÇA DE ESPÍRITO: A ESTRATÉGIA DO CONTRAPESO
 
 ### CRIE UMA SENSAÇÃO DE URGÊNCIA E DESESPERO: A ESTRATÉGIA DA ZONA DA MORTE
