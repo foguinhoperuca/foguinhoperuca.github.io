@@ -56,7 +56,8 @@ O problema com essa estratégia é justamente o excesso de polarização: com a 
 ### NÃO COMBATA A GUERRA QUE JÁ PASSOU: A ESTRATÉGIA DA GUERRILHA MENTAL
 
 #### Histórias
-* Guerra Franco-Prussia protagonizada por Napoleão e Friedrich Ludwig. Durante essa disputa ficou evidente o jeito fluído de fazer guerra dos franceses versus o jeito mecânico e rígido do estilo prussiano. Durante essa guerra ficou evidente a superioridade da escola frnacesa na época.
+* *A ÚLTIMA GUERRA*: Guerra Franco-Prussia protagonizada por Napoleão e Friedrich Ludwig. Durante essa disputa ficou evidente o jeito fluído de fazer guerra dos franceses versus o jeito mecânico e rígido do estilo prussiano. Durante essa guerra ficou evidente a superioridade da escola frnacesa na época.
+* *GUERRA PRESENTE*: A história narra as lutas de Miyamoto Musashi com Yoshioka Matashichiro, depois a sua luta com Baiken, depois a sua luta com Sasaki Ganryu, onde de todas as lutas ele se saiu vitorioso.
 
 ### EM MEIO AO TURBILHÃO DE ACONTECIMENTOS, NÃO PERCA A PRESENÇA DE ESPÍRITO: A ESTRATÉGIA DO CONTRAPESO
 
