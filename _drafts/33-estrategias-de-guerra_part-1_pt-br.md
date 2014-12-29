@@ -59,6 +59,19 @@ O problema com essa estratégia é justamente o excesso de polarização: com a 
 * *A ÚLTIMA GUERRA*: Guerra Franco-Prussia protagonizada por Napoleão e Friedrich Ludwig. Durante essa disputa ficou evidente o jeito fluído de fazer guerra dos franceses versus o jeito mecânico e rígido do estilo prussiano. Durante essa guerra ficou evidente a superioridade da escola frnacesa na época. Os prussianos simplesmente estavam atrasados 50 anos, sendo incapazes de reconhecer que suas táticas já não funcionam mais e nem eram adequadas ao inimigo em questão. A ruína foi justamente o fato de confiarem excessivamente nos resultados do passado sem ao menos se darem o trabalho de examinar a realidade que se apresentava.
 * *GUERRA PRESENTE*: A história narra as lutas de Miyamoto Musashi com Yoshioka Matashichiro, depois a sua luta com Baiken, depois a sua luta com Sasaki Ganryu, onde de todas as lutas ele se saiu vitorioso. Musashi chegou ao ápice de sua forma confiando que para cada luta a estratégia deve ser adaptada ao que é exigido no momento, se fiar-se no passado, acreditando no que funcionou antes vai necessáriamente funcionar de novo. Musashi era capaz de se adaptar ao seu inimigo em questão e reagir de forma improvisada de acordo com op que a situaçõ pedia. Essa flexibilidade era a sua maior arma.
 
+#### Histórias da Margem
+
+#### Chaves Para Guerra
+
+...
+##### Táticas
+
+* *Reexamine todas as suas crenças e princípios prediletos*:
+* *Apague a memória da última guerra*:
+* *Mantenha a mente em movimeno*:
+* *Absorva o espírito dos tempos*:
+* *Curso inverso*:
+
 ### EM MEIO AO TURBILHÃO DE ACONTECIMENTOS, NÃO PERCA A PRESENÇA DE ESPÍRITO: A ESTRATÉGIA DO CONTRAPESO
 
 ### CRIE UMA SENSAÇÃO DE URGÊNCIA E DESESPERO: A ESTRATÉGIA DA ZONA DA MORTE
