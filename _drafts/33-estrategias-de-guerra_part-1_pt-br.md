@@ -63,10 +63,11 @@ O problema com essa estratégia é justamente o excesso de polarização: com a 
 
 #### Chaves Para Guerra
 
-...
+A chave da estratégia é não remoer o passado. Ao invés de, depois da batalha, remoer os erros e achar que o conhecimento de hoje seria suficiente para ter tido sucesso na batalha que passou, você se deve concentrar no presente. Mais teorias, mais conhecimento não se traduzem necessária mente em sucesso. O ideal é a capacidade de enxegar as coisas como são, como estão se desenrolando, do jeito que são e não por meio dos seus próprios preconceitos.
+
 ##### Táticas
 
-* *Reexamine todas as suas crenças e princípios prediletos*:
+* *Reexamine todas as suas crenças e princípios prediletos*: 
 * *Apague a memória da última guerra*:
 * *Mantenha a mente em movimeno*:
 * *Absorva o espírito dos tempos*:
