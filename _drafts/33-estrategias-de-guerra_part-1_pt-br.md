@@ -67,8 +67,8 @@ A chave da estratégia é não remoer o passado. Ao invés de, depois da batalha
 
 ##### Táticas
 
-* *Reexamine todas as suas crenças e princípios prediletos*: 
-* *Apague a memória da última guerra*:
+* *Reexamine todas as suas crenças e princípios prediletos*: Não é necessário ignorar e desfazer de toda a teoria aprendida e do estudo da história, entretanto, é necessário combater a tendência de que essa teoria torne-se um dogma e te engesse. O importante é sempre estar questionando e revisando tudo o que foi aprendido. Novamente, o espírito é o de ser capaz de se adaptar ao presente e não ficar preso ao passo;
+* *Apague a memória da última guerra*: 
 * *Mantenha a mente em movimeno*:
 * *Absorva o espírito dos tempos*:
 * *Curso inverso*:
