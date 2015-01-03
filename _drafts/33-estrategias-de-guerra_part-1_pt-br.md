@@ -73,6 +73,12 @@ A chave da estratégia é não remoer o passado. Ao invés de, depois da batalha
 * *Absorva o espírito dos tempos*:
 * *Curso inverso*:
 
+#### Comentários
+
+A visão apresentada do autor vale com uma boa reflexão. De fato, a argumentação que se você ficar preso ao passado, cego para os acontecimentos presentes, juntamente com o conhecimento obtido de forma empírica, fortalecem a visão que é necessário ser completamente desapegado ao passado. Os trechos dos livros, especialmente do livro dos 5 anéis (Musashi) reforçam o que o texto principal argumenta.
+Entretanto, não fiquei plenamente convencido em relação ao desapego total. O autor não foi claro quanto ao valor do aprendizado e estudo de experiência passadas. Apesar de um breve momento ele reconhecer a sua devida importância, achei que ele deixou de dar a devida atenção à esse aspecto.
+Vale, portanto, refletir sobre esse aspecto e cruzar com as idéias expostas pelo autor. Particularmente, fiquei com a impressão que o conceito não está "bem-acabado" justamente por não expolorar este aspecto.
+
 ### EM MEIO AO TURBILHÃO DE ACONTECIMENTOS, NÃO PERCA A PRESENÇA DE ESPÍRITO: A ESTRATÉGIA DO CONTRAPESO
 
 ### CRIE UMA SENSAÇÃO DE URGÊNCIA E DESESPERO: A ESTRATÉGIA DA ZONA DA MORTE
