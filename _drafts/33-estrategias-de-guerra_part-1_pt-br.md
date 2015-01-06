@@ -69,7 +69,7 @@ A chave da estratégia é não remoer o passado. Ao invés de, depois da batalha
 
 * *Reexamine todas as suas crenças e princípios prediletos*: Não é necessário ignorar e desfazer de toda a teoria aprendida e do estudo da história, entretanto, é necessário combater a tendência de que essa teoria torne-se um dogma e te engesse. O importante é sempre estar questionando e revisando tudo o que foi aprendido. Novamente, o espírito é o de ser capaz de se adaptar ao presente e não ficar preso ao passo;
 * *Apague a memória da última guerra*: A última batalha pode deixá-lo completamente cego, independete do resultado: com a vitória, você pode se tornar acomodado e repetir as mesmas estratégias pelo simples motivo que ela funcionou anteriormente. Você pode deixar o principal de lado: avaliar  a situação presente. Caso a última batalha tenha sido um desastre ela pode deixar você com medo e cego para enfrentar a batalha presente. Portanto, o ideal é absorver as lições que devem ser aprendidas e esquecer sobre essa última batalha, concentrando-se no presente.
-* *Mantenha a mente em movimeno*:
+* *Mantenha a mente em movimeno*: Você deve agir tal qual uma criança que está sempre aberta À novas experiências, nunca se prendendo ao passado. O importante é sempre ter a mente focado no presente, sempre atenta ao que acontece agora ao invés de agir de acordo com idéias pré-concebidas. O foco deve ser a fluidez, o movimento que acompanha os eventos do presente.
 * *Absorva o espírito dos tempos*:
 * *Curso inverso*:
 
