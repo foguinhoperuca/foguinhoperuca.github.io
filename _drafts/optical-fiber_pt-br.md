@@ -7,6 +7,36 @@ categories: tecnologia fibra-óptica redes infraestrutura
 
 Este artigo tem por objetivo ser uma referência técnica durante o meu aprendizado sobre a tecnologia óptica aplicada à rede.
 
+# Conectores
+
+## LC
+
+## MU
+
+## SC
+
+## E2000
+
+## MTP-MPO
+
+## MT-RJ
+
+## FC
+
+## ST
+
+## RDC
+
+
+# Adaptadores
+
+# Atenuadores
+
+# Referência Técnica
+
+TIA-EIA-568-B.3 e requisitos do ISO/IEC 11801 Ed2.0
+
+
 Sources:
 
 http://www.curso-fibra-optica.com.br/artigos/conectores-de-fibra-ptica
