@@ -3,7 +3,7 @@ layout: post
 title: Nokia E63 Bluetooth no GNU/Linux Ubuntu
 ---
 
-Introdução:
+# Introdução
 Este artigo ensina a conectar o o seu celular (Nokia E63) ao linux (Ubuntu 10.04) e compartilhar a conexão da internet do seu celular com o seu PC (como uma conexão de emergência ou ainda se você tiver um plano generoso de dados, o que hoje em dia já não é mais uma raridade ^^”) além de mostrar mais algumas funcionalidades básica. Nível: iniciante.
 
 # Sobre o Bluetooth:
@@ -15,7 +15,7 @@ Este artigo ensina a conectar o o seu celular (Nokia E63) ao linux (Ubuntu 10.04
 
 Adaptador bluetooth vendido em qualquer loja. Em SP, na vila Olímpia você acha por uns R$25,00 ou ainda no [Deal Extreme](“http://www.dealextreme.com/”) por uns US$1.80 (R$3,60 aproximadamente).
 
-## Pondo a mão na massa.
+# Pondo a mão na massa.
 
 No linux o suporte ao bluetooth é bem tranquilo. O Ubuntu (versão 10.04, enquanto escrevo) já vem com o gerenciador de conexões bluetooth (gnome-bluetooth). Quando um dispositivo é conectado, o símbolo característico ![Alt text](../../../images/posts/2015-02-17-BLUETOOTH_VOL//BlueTooth.png) irá aparecer ao lado do relógio.
 
@@ -68,9 +68,9 @@ Para tornar o seu celular um modem basta utilizar o ppp. No meu caso eu vou me c
 
 ### Informações:
 
-	<li>**_*99#**_
+- **_*99#_**
 
-	<li>utilizar a **_vpn claro.com.br**_.
+- utilizar a **_vpn claro.com.br_**.
 
 Para conectar, escolha a opção Serial Port (Porta Serial) e click em forward (próximo). Se der certo, uma mensagem de sucesso será mostrada.
 
