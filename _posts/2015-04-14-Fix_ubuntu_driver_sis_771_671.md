@@ -7,7 +7,7 @@ title: Configuração Driver Sis 771/671 no Ubuntu.
 
 A placa de vídeo Sis 771/671 é conhecida por dar muita dor de cabeça para configurar, geralmente sendo usado o driver vesa com resolução de 480x600como fallback (o que é obviamente péssimo).
 
-O notebook testado foi o _**Positivo Premium modelo SIM**_ com processador X86_64, apelido carinhosamente por mim de [Yukina](http://yuyuhakusho.wikia.com/wiki/Yukina "Yukina - Yu Yu Hakusho"). A distribuição é o Ubuntu 14.10. Durante a instalação da distro não tive nenhum problema com resolução. O problema foi ocorrer logo após a instalação, no primeiro uso.
+O notebook testado foi o _**Positivo Premium modelo SIM**_ com processador X86_64, apelidado carinhosamente por mim de [Yukina](http://yuyuhakusho.wikia.com/wiki/Yukina "Yukina - Yu Yu Hakusho"). A distribuição é o Ubuntu 14.10. Durante a instalação da distro não tive nenhum problema com resolução. O problema foi ocorrer logo após a instalação, no primeiro uso.
 
 ## Como Identificar a sua Placa de Vídeo.
 
@@ -216,7 +216,7 @@ Fica para o futuro a opção de empacotar o driver para facilitar a instalação
 
 * <a href="https://sites.google.com/site/easylinuxtipsproject/sis">Easy Linux Tips Project</a>
 * <a href="http://ubuntuforums.org/showthread.php?t=958967&page=84">Ubuntu Forums</a>
-* <a href="http://www.vivaolinux.com.br/dica/Configurando-SIS-67172-no-Ubuntu-1404">Dica no Viva o Linux</a>
+* <a href="http://www.vivaolinux.com.br/dica/Configurando-SIS-67172-no-Ubuntu-1404">Dica do usuário morvan bliasby no Viva o Linux</a>
 * <a href="http://www.fredericomarinho.com/instalar-o-driver-da-placa-de-video-sis-671771-no-linux-mint-11/#axzz31HlXPXmz">Site do Frederico Marinho</a>
 * <a href="http://ubuntuforum-br.org/index.php/topic,112445.0.html">Ubuntu Forum - BR</a>
 
