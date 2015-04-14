@@ -5,13 +5,20 @@ title: Configuração Driver Sis 771/671 no Ubuntu.
 
 # O Problema.
 
-A placa de vídeo sis 771/671 é conhecida por dar muita dor de cabeça para configurar, geralmente sendo usado o driver vesa com resolução de 480x600como fallback (o que é obviamente péssimo).
+A placa de vídeo Sis 771/671 é conhecida por dar muita dor de cabeça para configurar, geralmente sendo usado o driver vesa com resolução de 480x600como fallback (o que é obviamente péssimo).
 
 O notebook testado foi o _**Positivo Premium modelo SIM**_ com processador X86_64, apelido carinhosamente por mim de [Yukina](http://yuyuhakusho.wikia.com/wiki/Yukina "Yukina - Yu Yu Hakusho"). A distribuição é o Ubuntu 14.10. Durante a instalação da distro não tive nenhum problema com resolução. O problema foi ocorrer logo após a instalação, no primeiro uso.
 
-# Como Identificar a sua Placa de Vídeo.
+## Como Identificar a sua Placa de Vídeo.
 
-TODO
+Para verificar a se a sua placa de vídeo é realmente a famigerada Sis 771/671 faça o seguinte:
+
+<pre>
+jefferson@yukina:~$ lspci | grep VGA
+01:00.0 VGA compatible controller: Silicon Integrated Systems [SiS] 771/671 PCIE VGA Display Adapter (rev 10)
+</pre>
+
+Se você encontrou a linha **01:00.0 VGA compatible controller: Silicon Integrated Systems [SiS] 771/671 PCIE VGA Display Adapter (rev 10)** então bingo! Continue lendo para você saber como resolver o problema.
 
 # Driver Nativo
 
@@ -212,3 +219,7 @@ Fica para o futuro a opção de empacotar o driver para facilitar a instalação
 * <a href="http://www.vivaolinux.com.br/dica/Configurando-SIS-67172-no-Ubuntu-1404">Dica no Viva o Linux</a>
 * <a href="http://www.fredericomarinho.com/instalar-o-driver-da-placa-de-video-sis-671771-no-linux-mint-11/#axzz31HlXPXmz">Site do Frederico Marinho</a>
 * <a href="http://ubuntuforum-br.org/index.php/topic,112445.0.html">Ubuntu Forum - BR</a>
+
+# Licença.
+
+Este artigo pode ser encontrado no endereço [http://jeffersoncampos.eti.br/2015/04/14/Fix_ubuntu_driver_sis_771_671.html](http://jeffersoncampos.eti.br/2015/04/14/Fix_ubuntu_driver_sis_771_671.html "Site do Autor Jefferson Campos") licenciado pela GNU FDL.
