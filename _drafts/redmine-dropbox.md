@@ -8,10 +8,15 @@ Short description here.
 
 ## Configure Database
 
+### Mysql
+
 * Prepare Dropbox
 * Symbolic Link
 * User's permission
 * Fix Apparmor
+* Show the pitfall and why it doesn't work
+
+### Using Sqlite
 
 ## Install Libraries
 
