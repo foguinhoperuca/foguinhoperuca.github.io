@@ -1,0 +1,24 @@
+# Winbind.
+
+https://help.ubuntu.com/community/ActiveDirectoryWinbindHowto
+https://help.ubuntu.com/community/Samba/Kerberos
+
+# Realmd & SSSD.
+
+# Samba Oficial Doc.
+
+https://www.samba.org/samba/docs/
+https://www.samba.org/samba/docs/man/Samba-HOWTO-Collection/
+https://www.samba.org/samba/docs/using_samba/toc.html
+
+# Find DC FQNS.
+
+http://serverfault.com/questions/78089/find-name-of-active-directory-domain-controller
+
+Start -> Run -> nslookup    
+set type=all
+_ldap._tcp.dc._msdcs.DOMAIN_NAME
+
+or
+
+set l <enter> (search for LOGONSERVER)
