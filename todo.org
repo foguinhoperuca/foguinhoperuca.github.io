@@ -1,4 +1,9 @@
 * Posts
+** Recover GPG Passphrase
+*** John the Ripper (Jumbo version)
+*** Python itertools (to build wordlist)
+**** http://thomas-cokelaer.info/blog/2012/11/how-do-use-itertools-in-python-to-build-permutation-or-combination/
+**** http://www.blog.pythonlibrary.org/2016/04/20/python-201-an-intro-to-itertools/
 ** 33 Estratégias de Guerra
 *** DONE Visão Geral
 **** DONE Resumo de cada parte
