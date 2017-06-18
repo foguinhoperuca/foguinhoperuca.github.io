@@ -2,7 +2,7 @@
 layout: post
 title: Jefferson vs João Carlos 2017-06-06T21:00
 date: 2017-06-06 21:00:00 -0300
-categories: chess CoC
+categories: chess game
 ---
 
 # O Jogo.

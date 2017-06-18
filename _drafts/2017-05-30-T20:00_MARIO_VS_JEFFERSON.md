@@ -2,7 +2,7 @@
 layout: post
 title: Mário vs Jefferson
 date: 2017-05-31 23:00:00 -0300
-categories: chess CoC tooling
+categories: chess games
 ---
 
 # Início

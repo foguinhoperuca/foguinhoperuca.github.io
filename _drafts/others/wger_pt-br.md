@@ -1,6 +1,13 @@
+---
+layout: post
+title: WGER PT-BR
+date: 2016-01-01 22:32:00 -0300
+categories: wger
+---
+
 # WGER - Workout Manager
 
-Expliucar Visão geral do software
+Explicar Visão geral do software
 
 ## História
 
