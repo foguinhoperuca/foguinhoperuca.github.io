@@ -4,6 +4,7 @@ title: Challange JR 2017-10-12 17:57:00
 date: 2017-10-12 17:57:00 -0300
 categories: chess games challenge
 ---
+# Introdução
 
 # Desafio
 
@@ -95,3 +96,22 @@ O coração da solução é a combinação do sacrifício da rainha em nome de u
 2. bispo
 3. bispo
 4. bispo
+
+# Conclusão.
+
+O presente trabalho é uma referência de como eu produzi a solução para o problema proposto com a pretensão de ser uma referência futura para outras análises e para que eu possa aperfeiçoar o meu método de análise, ajudando a melhorar o meu repertório e fazer minhas análises em um menor tempo com a mesma ou melhor qualidade.
+
+Assim, o trabalho está divido em 2 aspectos principais: coleta de informações de como apresenta-se o problema juntamente com uma análise dos dados obtidos e outro aspecto que é partindo do resultado obtido no primeiro aspecto, elaborar uma proposta para resolver o problema.
+
+Importante notar que durante a coleta de dados e análise foram considerados:
+
+* Tratar da peça mais forte para peça mais fraca (para economizar tempo na análise);
+* Comparar o meu repertório de táticas, um a um de forma sistemática, com o problema apresentado;
+* ...
+
+# Referências.
+
+* Eu mesmo =)
+* wikipedia (chess tatics)
+* 
+...
