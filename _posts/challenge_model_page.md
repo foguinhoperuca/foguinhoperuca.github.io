@@ -1,7 +1,7 @@
 {% assign challenge = site.data.challenges[page.challenge] %}
 # Problem #
 
-<div id="boardProblem" style="width: 400px"></div>
+<div id="boardProblem"></div>
 <div id="problemDescription">{{ challenge.descripton }}</div>
 <input type="button" id="restartBtn" value="Restart" />
 
