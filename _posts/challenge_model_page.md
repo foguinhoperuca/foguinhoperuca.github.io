@@ -2,7 +2,8 @@
 # Problem #
 
 <div id="boardProblem" style="width: 320px"></div>
-<div id="problemDescription">{{ challenge.descripton }}</div>
+<small>_**{{ challenge.descripton }}**_</small>
+<br />
 <input type="button" id="restartBtn" value="Restart" />
 
 ## Solution ##

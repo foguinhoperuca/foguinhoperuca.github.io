@@ -1,15 +1,29 @@
 ---
-layout: post
 title: Challange JR 2017-10-12 17:57:00
 date: 2017-10-12 17:57:00 -0300
-categories: chess games challenge
+challenge: JR_2017-10-12_17-57-00
+layout: post
+categories: chess challenge
+custom-javascript-list:
+    - "https://code.jquery.com/jquery-3.2.1.min.js"
+    - "/js/pgnvjs.js"
+    - "/js/chessboard-0.3.0.js"
+custom-css-list:
+    - "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css"
+    - "/css/pgnvjs.css"
+    - "/css/chessboard-0.3.0.min.css"
 ---
+{% assign challenge = site.data.challenges[page.challenge] %}
 # Introdução
 
 ## Desafio
 
-![Pretas jogam e d'ao checkmate.]({{ "/images/posts/2017-10-12T17h57_CHALLENGE_JR/2017-10-12T17:57_CHALLENGE_JR_CH-01.jpg" | absolute_url }})
-<small>_**Pretas jogam e dão checkmate.**_</small>
+<!-- ![Pretas jogam e d'ao checkmate.]({{ "/images/posts/2017-10-12T17h57_CHALLENGE_JR/2017-10-12T17:57_CHALLENGE_JR_CH-01.jpg" | absolute_url }}) -->
+<!-- <small>_**Pretas jogam e dão checkmate.**_</small> -->
+<div id="boardProblem" style="width: 320px"></div>
+<small>_**{{ challenge.descripton }}**_</small>
+<br />
+<input type="button" id="restartBtn" value="Restart" />
 
 Neste estudo, inicialmente irei tentar responder algumas perguntas (elencadas abaixo) e posteriormente utilizarei as respostas produzidas como input para propor uma solução para o problema. Resumidamente, levarei em conta o seguinte:
 
@@ -162,7 +176,11 @@ Pode-se conjecturar que as Brancas estão em uma posição desfavorável porém 
 # Solução Proposta.
 
 
-// TODO js to show/hide content
+<input type="button" id="showSolutionBtn" value="Show/Hide" />
+<div id="solution">
+<div id="boardSolution"></div>
+
+</div>
 
 O coração da solução é a combinação do sacrifício da rainha em nome de uma abertura na defesa já fraca do rei + sequência de check que imobilizará o rei a ponto de conseguir-se o almejado check-mate.
 
@@ -171,6 +189,7 @@ O coração da solução é a combinação do sacrifício da rainha em nome de u
 2. **Kh2; bg1+**: O rei branco foge para o rank 2. O bispo preto ataca o rei defendido pela torre que está no rank 1
 3. **Kh1; bf2+**: O rei branco foge novamente para o rank 1. O bispo preto sobe para o rank 2 dando um ataque descoberto no rei com a torre. Note que mesmo o bispo exposto ao ataque do cavalo, o descoberto no rei força as brancas ignorarem momentaneamente o bispo preto
 4. **Kh2; bg3++**: Novamente o rei branco preisa fugir para o rank 2; O bispo negro vai atacar o rei branco apoiado pelo ph4. Este ataque culmina em um checkmate pois não há para onde o rei branco fugir ou peça que possa cobrir os ataques e nem mesmo atacar as peças de ataque das pretas.
+
 
 # Conclusão.
 
@@ -191,3 +210,37 @@ Durante a coleta de dados e análise foram considerados algumas heurísticas:
 
 * Eu mesmo =). Essa análise partiu da minha reflexão sobre o problema;
 * [Temas táticos - chesstempo.com](https://pt.chesstempo.com/tactical-motifs.html "Site com vários temas para estudo de táticas.")
+
+<script>
+	var boardProblem = ChessBoard('boardProblem', {
+		position: '{{ challenge.fen }}',
+		draggable: true,
+		sparePieces: true,
+		orientation: 'black'
+	});
+	$('#restartBtn').on('click', function () {
+		boardProblem.position('{{ challenge.fen }}');
+		solution();
+		$("#boardSolution").hide();
+	});
+
+	function solution() {
+		pgnView('boardSolution', {
+			position: '{{ challenge.fen }}',
+			pgn: '{{ challenge.pgn }}',
+			pieceStyle: 'wikipedia',
+			theme: 'informator',
+			orientation: 'black'
+		});
+	}
+
+	$("#showSolutionBtn").click(function(){
+		solution();
+		$("#solution").toggle();
+	});
+
+	$(document).ready(function(){
+		solution();
+		$("#solution").hide();
+	});
+</script>
