@@ -3,8 +3,6 @@
 
 <div id="boardProblem" style="width: 320px"></div>
 <small>_**{{ challenge.descripton }}**_</small>
-<br />
-<input type="button" id="restartBtn" value="Restart" />
 
 ## Solution ##
 
@@ -12,15 +10,10 @@
 <div id="boardSolution"></div>
 
 <script>
-	var boardProblem = ChessBoard('boardProblem', {
+	var boardProblem = pgnEdit('boardProblem', {
 		position: '{{ challenge.fen }}',
-		draggable: true,
-		sparePieces: true
-	});
-	$('#restartBtn').on('click', function () {
-		boardProblem.position('{{ challenge.fen }}');
-		solution();
-		$("#boardSolution").hide();
+		pieceStyle: 'wikipedia',
+		theme: 'blue'
 	});
 
 	function solution() {

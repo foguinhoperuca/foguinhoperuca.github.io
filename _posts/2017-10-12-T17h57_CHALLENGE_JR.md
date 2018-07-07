@@ -22,8 +22,6 @@ custom-css-list:
 <!-- <small>_**Pretas jogam e dão checkmate.**_</small> -->
 <div id="boardProblem" style="width: 320px"></div>
 <small>_**{{ challenge.descripton }}**_</small>
-<br />
-<input type="button" id="restartBtn" value="Restart" />
 
 Neste estudo, inicialmente irei tentar responder algumas perguntas (elencadas abaixo) e posteriormente utilizarei as respostas produzidas como input para propor uma solução para o problema. Resumidamente, levarei em conta o seguinte:
 
@@ -212,16 +210,11 @@ Durante a coleta de dados e análise foram considerados algumas heurísticas:
 * [Temas táticos - chesstempo.com](https://pt.chesstempo.com/tactical-motifs.html "Site com vários temas para estudo de táticas.")
 
 <script>
-	var boardProblem = ChessBoard('boardProblem', {
+	var boardProblem = pgnEdit('boardProblem', {
 		position: '{{ challenge.fen }}',
-		draggable: true,
-		sparePieces: true,
+		pieceStyle: 'wikipedia',
+		theme: 'blue',
 		orientation: 'black'
-	});
-	$('#restartBtn').on('click', function () {
-		boardProblem.position('{{ challenge.fen }}');
-		solution();
-		$("#boardSolution").hide();
 	});
 
 	function solution() {
